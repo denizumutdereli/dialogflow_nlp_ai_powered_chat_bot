@@ -1,0 +1,10 @@
+{
+	"codes": {
+		"666*" : {
+			"description": "could not answer",
+			"functionName": "pass"
+		}
+
+	}
+
+}
