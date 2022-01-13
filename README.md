@@ -32,7 +32,7 @@ Where Dialogflow falls short, a Semi-Supervised learning methodology comes into 
 <img src="ss/nlp.JPG" title="Dialogflow German Language with ai powered">
 
 
-I use Spacy and BERT tokenized for NLP processes.
+I use Spacy and NLTK BERT tokenized for NLP processes.
 
 Each answer given via the terminal also provides feedback, making a system that is constantly learning possible.
 
