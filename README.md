@@ -2,6 +2,23 @@
 
 Dialogflow alone is insufficient in many respects. For this reason, I first made Dialogflow work in a terminal interface.
 
+> Latest Beta V2 API with corrections.  
+
+> Full control via Terminal (CRUD) 
+
+> Added NLP functions: NLTK Corpus BERT and Spacy Tokenize. German specific master sentence spliting. 
+
+> Supervised and semi-supervised learning.
+
+> Full customizable
+
+> Human like behaviours
+
+> Multiple Bots and different human features
+
+> Enhanced Google Flowups by action parameters. Triggers, Chains and Endings.
+
+
 <img src="ss/sending_messages.JPG" title="sending messages via Terminal">
 
 All of Dialogflow's save, update, delete etc. We can do all the transactions through the terminal.
