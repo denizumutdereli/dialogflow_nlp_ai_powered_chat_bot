@@ -111,8 +111,8 @@ I will continue to improve as I get the opportunity. I would be happy if anyone 
 
 If you encounter any errors or want information, you can contact me.
 
-Thank you 
-**denizumutdereli@gmail.com**
+Thank you <br>
+**denizumutdereli@gmail.com**<br>
 Umut
 
 
